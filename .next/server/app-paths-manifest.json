@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/system-flow/page": "app/system-flow/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/error-logs/page": "app/error-logs/page.js",
+  "/overview/page": "app/overview/page.js",
+  "/data-flow/page": "app/data-flow/page.js"
+}
